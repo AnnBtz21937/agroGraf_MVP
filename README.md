@@ -8,8 +8,9 @@ Este é o MVP do **AgroGraf**, uma plataforma inteligente de monitoramento agrí
 
 Este projeto também contou com a colaboração de:
 
-- **Alex Sandro Vulf** – Elaboração do pitch
+- **Alex Sandro Vulf** – Elaboração do pitch em vídeo
 - **Brenda Abreu Almeida** – Elaboração da apresentação
+- **Ricardo Cristiano da Silva** - Elaboração da documentação técnica
 
 ## Funcionalidades
 
@@ -54,36 +55,73 @@ Perfil e configurações de conta.
 ## Como executar pela primeira vez 
 
 1. No terminal da IDE, crie um ambiente virtual:
+
+- Windows:
 ```bash
 python -m venv venv
 ```
 
+- Linux:
+```bash
+python3 -m venv venv
+```
+
 2. Ative o ambiente:
+
 - Windows:
 ```bash
 venv\Scripts\activate
 ```
 
+- Linux:
+```bash
+source venv/bin/activate
+```
+
 3. Instale as dependências:
+
+- Windows/Linux:
 ```bash
 pip install -r requirements.txt
 ```
 
 4. Execute o projeto:
+
+- Windows:
 ```bash
 python app.py
 ```
+
+- Linux:
+```bash
+python3 app.py
+```
+
 ## Como executar pela segunda vez 
 ---
 No VSCode:
 1. Abra o terminal e ative o ambiente:
+
+- Windows:
 ```bash
 venv\Scripts\activate
 ```
 
+- Linux:
+```bash
+source venv/bin/activate
+```
+
 2. Execute o projeto:
+
+- Windows:
 ```bash
 python app.py
+```
+
+- Linux:
+```bash
+python3 app.py
 ```
 
 ## Requisitos
