@@ -138,7 +138,11 @@ Módulo Embarcado desenvolvido por: **Ricardo Cristiano da Silva**
 AgroGraf é um sistema embarcado projetado para a placa BitDogLab (utilizando Raspberry Pi Pico W) para simular o monitoramento e gerenciamento de setores agrícolas. Ele utiliza uma matriz de LEDs WS2812B para visualização de status, um joystick para navegação e interação, um display OLED para informações, um buzzer para alertas, e um servidor HTTP para monitoramento e controle remoto via Wi-Fi.
 
 #Links do sistema enviando os dados:
+
+Porta 8050:
 **http://agrograf.ddns.net:8050**
+
+Porta 8060:
 **http://agrograf.ddns.net:8060**
 
 ## Funcionalidades Principais
