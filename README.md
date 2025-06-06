@@ -11,7 +11,7 @@ Porta 8060 (Controle Remoto):
 **http://agrograf.ddns.net:8060**
 
 ###  Controle Remoto
-![Controle Remoto](imagens/dashboardp1.PNG)
+![Controle Remoto](imagens/controleremoto.JPEG)
 
 Este é o MVP do **AgroGraf**, uma plataforma inteligente de monitoramento agrícola desenvolvida com Python, Dash e Plotly. O sistema foi pensado para ser educativo e funcional, mesmo sem o uso das ferramentas Google Cloud que estavam previstas inicialmente.
 
